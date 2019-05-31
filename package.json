@@ -1,0 +1,15 @@
+{
+  "name": "point_save",
+  "version": "1.0.0",
+  "description": "a programmer to label point generate file",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "gmq",
+  "license": "ISC",
+  "dependencies": {
+    "ffmpeg": "0.0.4"
+  }
+}
